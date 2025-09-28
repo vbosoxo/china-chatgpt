@@ -16,7 +16,7 @@ ChatGPT 镜像网站（ChatGPT Mirror）是指通过复制原始 ChatGPT 网站�
 
 以下是经过测试后推荐的国内 ChatGPT 中文版镜像网站：
 
-### 松鼠gpt [songshugpt.com](https://songshugpt.com)
+### 松鼠gpt [www.songshugpt.com](https://www.songshugpt.com)
 
 - **运营时间**：1年多
 - **支持功能**：GPT-4、GPT-4o、GPT-o1、GPT-o3、Deepseek、Grok3，AI 绘画（MidJourney 和 DALL·E）
